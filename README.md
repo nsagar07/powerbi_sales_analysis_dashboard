@@ -1,6 +1,7 @@
 📊 Sales Performance & Forecasting Dashboard – Power BI Project
 Overview
 This project features an end-to-end Sales Analytics Power BI Dashboard built using a synthetic business dataset that simulates real-world retail transactions. The dashboard provides insights into revenue performance, product sales trends, customer behavior, and regional distribution, along with forecasting capabilities for strategic decision-making.
+
 The dataset includes 9,000+ sales transactions, 800 customers, and 80 products across multiple regions and channels (Online, Retail, Distributor). It was generated using Python in Jupyter Notebook to ensure realistic data patterns, seasonality, and relationships.
 ________________________________________
 🛠 Tools & Technologies
