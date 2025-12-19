@@ -6,25 +6,18 @@ ________________________________________
 🛠 Tools & Technologies
 Category	Tools
 Visualization	Power BI Desktop
-Data Processing	Python (Pandas, NumPy)📊 Sales Performance & Forecasting Dashboard – Power BI Project
-Overview
-This project features an end-to-end Sales Analytics Power BI Dashboard built using a synthetic business dataset that simulates real-world retail transactions. The dashboard provides insights into revenue performance, product sales trends, customer behavior, and regional distribution, along with forecasting capabilities for strategic decision-making.
-The dataset includes 9,000+ sales transactions, 800 customers, and 80 products across multiple regions and channels (Online, Retail, Distributor). It was generated using Python in Jupyter Notebook to ensure realistic data patterns, seasonality, and relationships.
-________________________________________
-🛠 Tools & Technologies
-Category	Tools
-Visualization	Power BI Desktop
 Data Processing	Python (Pandas, NumPy)
 Storage	CSV Files
 Modeling	DAX, Power Query
 Versioning	GitHub (optional)
 ________________________________________
 📂 Dataset Structure
-Tables
-Table	Rows	Description
-customers.csv	~800	Customer information, region & preferred sales channel
-products.csv	~80	Product catalog with pricing & cost
-sales_transactions.csv	~9,000	Transaction facts including revenue, units, date, region & channel
+### **Tables**
+| Table | Rows | Description |
+|-------|-------|-------------|
+| customers.csv | ~800 | Customer information, region & channel preference |
+| products.csv | ~80 | Product catalog with pricing & cost |
+| sales_transactions.csv | ~9,000 | Transaction facts including revenue, units, date, region & channel |
 ________________________________________
 🧠 Key Business Metrics
 Metric	Description
